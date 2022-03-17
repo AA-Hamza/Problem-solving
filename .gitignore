@@ -1,3 +1,5 @@
 README.md_bak
 sh_fill_readme.sh
 .gitignore
+*test_case*
+*a.out*
