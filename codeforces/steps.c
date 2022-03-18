@@ -51,7 +51,10 @@ int main()
     for (int i = 0; i < k; ++i) {
         scanf("%lld %lld ", &dx, &dy);
         if (check_boundries(n, m, x+dx, y+dy)) {
-            steps += cal_steps(n, m, x, y, dx, dy);
+            int curr_steps = cal_steps(n, m, x, y, dx, dy);
+            y += dy*curr_steps;
+            x += dx*curr_steps;
+            steps += curr_steps;
             //x += dx;
             //y += dy;
             //steps++;
