@@ -2,6 +2,11 @@
 
 | Challenge | Solution |
 |:-------------:| :-----:|
+|[President Office](https://codeforces.com/contest/6/problem/B)|[president_office.c](codeforces/president_office.c)|
+|[Steps](https://codeforces.com/contest/152/problem/B)|[steps.c](codeforces/steps.c)|
+|[Sum Of Digits](http://codeforces.com/contest/102/problem/B)|[sum_of_digits.py](codeforces/sum_of_digits.py)|
+|[Free Ice Cream](http://codeforces.com/contest/686/problem/A)|[free_ice_cream.c](codeforces/free_ice_cream.c)|
+|[Boy Or Girl](http://codeforces.com/contest/236/problem/A)|[boy_or_girl.py](codeforces/boy_or_girl.py)|
 |[Heaps](https://www.hackerrank.com/domains/data-structures/heap/)|[heaps.cpp](hackerrank/heaps.cpp)|
 |[Qheap1](https://www.hackerrank.com/challenges/qheap1/problem)|[qheap1.cpp](hackerrank/qheap1.cpp)|
 |[Adding Big Numbers](https://www.codewars.com/kata/525f4206b73515bffb000b21)|[adding_big_numbers.cpp](codewars/adding_big_numbers.cpp)|
