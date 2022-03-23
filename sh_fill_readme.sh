@@ -4,7 +4,8 @@
 
 #OLD_20_FILES=$(ls -t CS-2020-2021/CS21-Science-Day-[1-9]*/*.[!o]*)
 #OLD_21_FILES=$(ls -t CS-2021-2022/CS21-Science-Week-[1-9]*/*.[!o]*)
-FILES=$(ls -t */*.[!o]*)
+#FILES=$(ls -t */*.[!o]*)
+FILES=$(find . -not -path '*/\.*' -type f -name "*.py" -o -name "*.c" -o -name "*.cpp" -o -name "*.cs" -o -name "*.java")
 
 DESTINATION="README.md"
 mv "$DESTINATION" "${DESTINATION}_bak"
