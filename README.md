@@ -2,7 +2,11 @@
 
 | Challenge | Solution |
 |:-------------:| :-----:|
+|[Dreamoon And Wifi](https://codeforces.com/problemset/problem/476/B)|[dreamoon_and_wifi.py](./codeforces/dreamoon_and_wifi.py)|
+|[Customising The Track](https://codeforces.com/problemset/problem/1543/B)|[customising_the_track.c](./codeforces/customising_the_track.c)|
 |[Free Ice Cream](http://codeforces.com/contest/686/problem/A)|[free_ice_cream.c](./codeforces/free_ice_cream.c)|
+|[Permutations](https://codeforces.com/problemset/problem/124/B)|[permutations.py](./codeforces/permutations.py)|
+|[Running For Gold](https://codeforces.com/contest/1552/problem/B)|[running_for_gold.c](./codeforces/running_for_gold.c)|
 |[Steps](https://codeforces.com/contest/152/problem/B)|[steps.c](./codeforces/steps.c)|
 |[All Are Same](https://codeforces.com/contest/1593/problem/D1)|[all_are_same.cpp](./codeforces/all_are_same.cpp)|
 |[President Office](https://codeforces.com/contest/6/problem/B)|[president_office.c](./codeforces/president_office.c)|
