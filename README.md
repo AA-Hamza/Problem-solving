@@ -3,16 +3,39 @@
 | Challenge | Solution |
 |:-------------:| :-----:|
 |[Dreamoon And Wifi](https://codeforces.com/problemset/problem/476/B)|[dreamoon_and_wifi.py](./codeforces/dreamoon_and_wifi.py)|
+|[Zuhair And Strnigs](https://codeforces.com/problemset/problem/1105/B)|[zuhair_and_strnigs.py](./codeforces/zuhair_and_strnigs.py)|
+|[Power Walking](https://codeforces.com/problemset/problem/1642/B)|[power_walking.cpp](./codeforces/power_walking.cpp)|
 |[Customising The Track](https://codeforces.com/problemset/problem/1543/B)|[customising_the_track.c](./codeforces/customising_the_track.c)|
+|[Xenia And Divisors](https://codeforces.com/problemset/problem/342/A)|[xenia_and_divisors.py](./codeforces/xenia_and_divisors.py)|
 |[Free Ice Cream](http://codeforces.com/contest/686/problem/A)|[free_ice_cream.c](./codeforces/free_ice_cream.c)|
+|[Wizard Duel](https://codeforces.com/problemset/problem/591/)|[wizard_duel.py](./codeforces/wizard_duel.py)|
 |[Permutations](https://codeforces.com/problemset/problem/124/B)|[permutations.py](./codeforces/permutations.py)|
+|[Odd Even Increments](https://codeforces.com/problemset/problem/1669/C)|[odd_even_increments.cpp](./codeforces/odd_even_increments.cpp)|
 |[Running For Gold](https://codeforces.com/contest/1552/problem/B)|[running_for_gold.c](./codeforces/running_for_gold.c)|
+|[Worms Evolution](https://codeforces.com/problemset/problem/31/A)|[worms_evolution.cpp](./codeforces/worms_evolution.cpp)|
+|[Iq Test](https://codeforces.com/problemset/problem/287/A)|[iq_test.py](./codeforces/iq_test.py)|
+|[Log Chopping](https://codeforces.com/problemset/problem/1672/A)|[log_chopping.cpp](./codeforces/log_chopping.cpp)|
+|[Kill The Monster](https://codeforces.com/problemset/problem/1633/C)|[kill_the_monster.cpp](./codeforces/kill_the_monster.cpp)|
+|[Playoff](https://codeforces.com/problemset/problem/1651/A)|[playoff.cpp](./codeforces/playoff.cpp)|
+|[Eating Candies](https://codeforces.com/contest/1669/problem/F)|[eating_candies.cpp](./codeforces/eating_candies.cpp)|
+|[Consecutive Points Segment](https://codeforces.com/problemset/problem/1671/B)|[consecutive_points_segment.cpp](./codeforces/consecutive_points_segment.cpp)|
 |[Steps](https://codeforces.com/contest/152/problem/B)|[steps.c](./codeforces/steps.c)|
+|[Chat Room](https://codeforces.com/contest/58/problem/A)|[chat_room.c](./codeforces/chat_room.c)|
+|[Unlucky Ticket](https://codeforces.com/problemset/problem/160/B)|[unlucky_ticket.cpp](./codeforces/unlucky_ticket.cpp)|
 |[All Are Same](https://codeforces.com/contest/1593/problem/D1)|[all_are_same.cpp](./codeforces/all_are_same.cpp)|
+|[String Building](https://codeforces.com/problemset/problem/1671/A)|[string_building.cpp](./codeforces/string_building.cpp)|
 |[President Office](https://codeforces.com/contest/6/problem/B)|[president_office.c](./codeforces/president_office.c)|
 |[Boy Or Girl](http://codeforces.com/contest/236/problem/A)|[boy_or_girl.py](./codeforces/boy_or_girl.py)|
 |[Sum Of Digits](http://codeforces.com/contest/102/problem/B)|[sum_of_digits.py](./codeforces/sum_of_digits.py)|
+|[Gcd Problem](https://codeforces.com/problemset/problem/1617/B)|[gcd_problem.py](./codeforces/gcd_problem.py)|
 |[Copy Paste](https://codeforces.com/contest/1417/problem/A)|[copy-paste.cpp](./codeforces/copy-paste.cpp)|
+|[Little Elephant And Function](https://codeforces.com/contest/221/problem/A)|[little_elephant_and_function.py](./codeforces/little_elephant_and_function.py)|
+|[Gcd Vs Lcm](https://codeforces.com/problemset/problem/1665/A)|[gcd_vs_lcm.cpp](./codeforces/gcd_vs_lcm.cpp)|
+|[Vasya And Coins](https://codeforces.com/problemset/problem/1660/A)|[vasya_and_coins.cpp](./codeforces/vasya_and_coins.cpp)|
+|[Div Plus Mod](https://codeforces.com/problemset/problem/1650/B)|[div_plus_mod.cpp](./codeforces/div_plus_mod.cpp)|
+|[K String](https://codeforces.com/problemset/problem/219/A)|[k-string.py](./codeforces/k-string.py)|
+|[Array Balancing](https://codeforces.com/problemset/problem/1661/A)|[array_balancing.cpp](./codeforces/array_balancing.cpp)|
+|[Vlad And Candies](https://codeforces.com/problemset/problem/1660/B)|[vlad_and_candies.cpp](./codeforces/vlad_and_candies.cpp)|
 |[Meeting](http://codeforces.com/contest/144/problem/B)|[meeting.cpp](./IEEE-Computer-Society/CS-2021-2022/CS21-Science-Week-4/meeting.cpp)|
 |[Hopscotch](http://codeforces.com/contest/141/problem/B)|[hopscotch.py](./IEEE-Computer-Society/CS-2021-2022/CS21-Science-Week-4/hopscotch.py)|
 |[Is It Rated](https://www.codeforces.com/contest/807/problem/A)|[is_it_rated.cpp](./IEEE-Computer-Society/CS-2021-2022/CS21-Science-Week-4/is_it_rated.cpp)|
