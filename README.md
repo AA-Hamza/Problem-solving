@@ -6,6 +6,7 @@
 |[Zuhair And Strnigs](https://codeforces.com/problemset/problem/1105/B)|[zuhair_and_strnigs.py](./codeforces/zuhair_and_strnigs.py)|
 |[Power Walking](https://codeforces.com/problemset/problem/1642/B)|[power_walking.cpp](./codeforces/power_walking.cpp)|
 |[Customising The Track](https://codeforces.com/problemset/problem/1543/B)|[customising_the_track.c](./codeforces/customising_the_track.c)|
+|[Stupid Submissions](https://codeforces.com/gym/101972/problem/E)|[stupid_submissions.cpp](./codeforces/stupid_submissions.cpp)|
 |[Xenia And Divisors](https://codeforces.com/problemset/problem/342/A)|[xenia_and_divisors.py](./codeforces/xenia_and_divisors.py)|
 |[Free Ice Cream](http://codeforces.com/contest/686/problem/A)|[free_ice_cream.c](./codeforces/free_ice_cream.c)|
 |[Wizard Duel](https://codeforces.com/problemset/problem/591/)|[wizard_duel.py](./codeforces/wizard_duel.py)|
@@ -26,6 +27,7 @@
 |[String Building](https://codeforces.com/problemset/problem/1671/A)|[string_building.cpp](./codeforces/string_building.cpp)|
 |[President Office](https://codeforces.com/contest/6/problem/B)|[president_office.c](./codeforces/president_office.c)|
 |[Boy Or Girl](http://codeforces.com/contest/236/problem/A)|[boy_or_girl.py](./codeforces/boy_or_girl.py)|
+|[Digit Minimization](https://codeforces.com/contest/1684/problem/A)|[digit_minimization.cpp](./codeforces/digit_minimization.cpp)|
 |[Sum Of Digits](http://codeforces.com/contest/102/problem/B)|[sum_of_digits.py](./codeforces/sum_of_digits.py)|
 |[Gcd Problem](https://codeforces.com/problemset/problem/1617/B)|[gcd_problem.py](./codeforces/gcd_problem.py)|
 |[Copy Paste](https://codeforces.com/contest/1417/problem/A)|[copy-paste.cpp](./codeforces/copy-paste.cpp)|
@@ -170,3 +172,8 @@
 |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/)|[merge_two_sorted_lists.py](./IEEE-Xtreme-Training/Task-1-Linked-Lists/merge_two_sorted_lists.py)|
 |[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/submissions/)|[add_two_numbers.cpp](./IEEE-Xtreme-Training/Task-1-Linked-Lists/add_two_numbers.cpp)|
 |[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/submissions/)|[climbing_stairs.cs](./IEEE-Xtreme-Training/Task-13/climbing_stairs.cs)|
+|[House Robber Ii](https://leetcode.com/problems/house-robber-ii/)|[house_robber_ii.cpp](./leetcode/house_robber_ii.cpp)|
+|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[decode_ways.cpp](./leetcode/decode_ways.cpp)|
+|[Longest Palindrome](https://leetcode.com/problems/longest-palindromic-substring/submissions/)|[longest_palindrome.cpp](./leetcode/longest_palindrome.cpp)|
+|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[palindromic_substrings.cpp](./leetcode/palindromic_substrings.cpp)|
+|[House Robber](https://leetcode.com/problems/house-robber/)|[house_robber.cpp](./leetcode/house_robber.cpp)|
