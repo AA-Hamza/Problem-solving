@@ -19,6 +19,7 @@
 |[Kill The Monster](https://codeforces.com/problemset/problem/1633/C)|[kill_the_monster.cpp](./codeforces/kill_the_monster.cpp)|
 |[Playoff](https://codeforces.com/problemset/problem/1651/A)|[playoff.cpp](./codeforces/playoff.cpp)|
 |[Eating Candies](https://codeforces.com/contest/1669/problem/F)|[eating_candies.cpp](./codeforces/eating_candies.cpp)|
+|[Okabe And Boxes](https://codeforces.com/problemset/problem/821/C)|[okabe_and_boxes.cpp](./codeforces/okabe_and_boxes.cpp)|
 |[Consecutive Points Segment](https://codeforces.com/problemset/problem/1671/B)|[consecutive_points_segment.cpp](./codeforces/consecutive_points_segment.cpp)|
 |[Steps](https://codeforces.com/contest/152/problem/B)|[steps.c](./codeforces/steps.c)|
 |[Chat Room](https://codeforces.com/contest/58/problem/A)|[chat_room.c](./codeforces/chat_room.c)|
@@ -174,6 +175,9 @@
 |[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/submissions/)|[climbing_stairs.cs](./IEEE-Xtreme-Training/Task-13/climbing_stairs.cs)|
 |[House Robber Ii](https://leetcode.com/problems/house-robber-ii/)|[house_robber_ii.cpp](./leetcode/house_robber_ii.cpp)|
 |[Decode Ways](https://leetcode.com/problems/decode-ways/)|[decode_ways.cpp](./leetcode/decode_ways.cpp)|
+|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[longest_increasing_subsequence.cpp](./leetcode/longest_increasing_subsequence.cpp)|
 |[Longest Palindrome](https://leetcode.com/problems/longest-palindromic-substring/submissions/)|[longest_palindrome.cpp](./leetcode/longest_palindrome.cpp)|
 |[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[palindromic_substrings.cpp](./leetcode/palindromic_substrings.cpp)|
+|[Coin Change](https://leetcode.com/problems/coin-change/)|[coin_change.cpp](./leetcode/coin_change.cpp)|
+|[Max Height By Stacking](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/)|[max_height_by_stacking.cpp](./leetcode/max_height_by_stacking.cpp)|
 |[House Robber](https://leetcode.com/problems/house-robber/)|[house_robber.cpp](./leetcode/house_robber.cpp)|
