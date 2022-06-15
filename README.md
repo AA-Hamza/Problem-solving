@@ -9,14 +9,19 @@
 |[Stupid Submissions](https://codeforces.com/gym/101972/problem/E)|[stupid_submissions.cpp](./codeforces/stupid_submissions.cpp)|
 |[Xenia And Divisors](https://codeforces.com/problemset/problem/342/A)|[xenia_and_divisors.py](./codeforces/xenia_and_divisors.py)|
 |[Free Ice Cream](http://codeforces.com/contest/686/problem/A)|[free_ice_cream.c](./codeforces/free_ice_cream.c)|
+|[All Distinct](https://codeforces.com/contest/1692/problem/B)|[all_distinct.cpp](./codeforces/all_distinct.cpp)|
+|[The Clock](https://codeforces.com/contest/1692/problem/D)|[the_clock.cpp](./codeforces/the_clock.cpp)|
 |[Wizard Duel](https://codeforces.com/problemset/problem/591/)|[wizard_duel.py](./codeforces/wizard_duel.py)|
 |[Permutations](https://codeforces.com/problemset/problem/124/B)|[permutations.py](./codeforces/permutations.py)|
+|[Sum3](https://codeforces.com/contest/1692/problem/F)|[sum3.cpp](./codeforces/sum3.cpp)|
+|[Dzy Loves Chessboard](https://codeforces.com/problemset/problem/445/A)|[dzy_loves_chessboard.py](./codeforces/dzy_loves_chessboard.py)|
 |[Odd Even Increments](https://codeforces.com/problemset/problem/1669/C)|[odd_even_increments.cpp](./codeforces/odd_even_increments.cpp)|
 |[Running For Gold](https://codeforces.com/contest/1552/problem/B)|[running_for_gold.c](./codeforces/running_for_gold.c)|
 |[Worms Evolution](https://codeforces.com/problemset/problem/31/A)|[worms_evolution.cpp](./codeforces/worms_evolution.cpp)|
 |[Iq Test](https://codeforces.com/problemset/problem/287/A)|[iq_test.py](./codeforces/iq_test.py)|
 |[Log Chopping](https://codeforces.com/problemset/problem/1672/A)|[log_chopping.cpp](./codeforces/log_chopping.cpp)|
 |[Kill The Monster](https://codeforces.com/problemset/problem/1633/C)|[kill_the_monster.cpp](./codeforces/kill_the_monster.cpp)|
+|[Gambling](https://codeforces.com/contest/1692/problem/H)|[gambling.cpp](./codeforces/gambling.cpp)|
 |[Playoff](https://codeforces.com/problemset/problem/1651/A)|[playoff.cpp](./codeforces/playoff.cpp)|
 |[Eating Candies](https://codeforces.com/contest/1669/problem/F)|[eating_candies.cpp](./codeforces/eating_candies.cpp)|
 |[Okabe And Boxes](https://codeforces.com/problemset/problem/821/C)|[okabe_and_boxes.cpp](./codeforces/okabe_and_boxes.cpp)|
@@ -25,19 +30,24 @@
 |[Chat Room](https://codeforces.com/contest/58/problem/A)|[chat_room.c](./codeforces/chat_room.c)|
 |[Unlucky Ticket](https://codeforces.com/problemset/problem/160/B)|[unlucky_ticket.cpp](./codeforces/unlucky_ticket.cpp)|
 |[All Are Same](https://codeforces.com/contest/1593/problem/D1)|[all_are_same.cpp](./codeforces/all_are_same.cpp)|
+|[Beautiful Substrings2](https://codeforces.com/problemset/gymProblem/101972/H)|[beautiful_substrings2.cpp](./codeforces/beautiful_substrings2.cpp)|
 |[String Building](https://codeforces.com/problemset/problem/1671/A)|[string_building.cpp](./codeforces/string_building.cpp)|
+|[Where Is The Bishop](https://codeforces.com/contest/1692/problem/C)|[where_is_the_bishop.py](./codeforces/where_is_the_bishop.py)|
 |[President Office](https://codeforces.com/contest/6/problem/B)|[president_office.c](./codeforces/president_office.c)|
 |[Boy Or Girl](http://codeforces.com/contest/236/problem/A)|[boy_or_girl.py](./codeforces/boy_or_girl.py)|
 |[Digit Minimization](https://codeforces.com/contest/1684/problem/A)|[digit_minimization.cpp](./codeforces/digit_minimization.cpp)|
 |[Sum Of Digits](http://codeforces.com/contest/102/problem/B)|[sum_of_digits.py](./codeforces/sum_of_digits.py)|
+|[Sort To 2](https://codeforces.com/contest/1692/problem/G)|[sort_to_2.cpp](./codeforces/sort_to_2.cpp)|
 |[Gcd Problem](https://codeforces.com/problemset/problem/1617/B)|[gcd_problem.py](./codeforces/gcd_problem.py)|
 |[Copy Paste](https://codeforces.com/contest/1417/problem/A)|[copy-paste.cpp](./codeforces/copy-paste.cpp)|
 |[Little Elephant And Function](https://codeforces.com/contest/221/problem/A)|[little_elephant_and_function.py](./codeforces/little_elephant_and_function.py)|
+|[Marathon](https://codeforces.com/contest/1692/problem/A)|[marathon.py](./codeforces/marathon.py)|
 |[Gcd Vs Lcm](https://codeforces.com/problemset/problem/1665/A)|[gcd_vs_lcm.cpp](./codeforces/gcd_vs_lcm.cpp)|
 |[Vasya And Coins](https://codeforces.com/problemset/problem/1660/A)|[vasya_and_coins.cpp](./codeforces/vasya_and_coins.cpp)|
 |[Div Plus Mod](https://codeforces.com/problemset/problem/1650/B)|[div_plus_mod.cpp](./codeforces/div_plus_mod.cpp)|
 |[K String](https://codeforces.com/problemset/problem/219/A)|[k-string.py](./codeforces/k-string.py)|
 |[Array Balancing](https://codeforces.com/problemset/problem/1661/A)|[array_balancing.cpp](./codeforces/array_balancing.cpp)|
+|[Binary Deque](https://codeforces.com/contest/1692/problem/E)|[binary_deque.cpp](./codeforces/binary_deque.cpp)|
 |[Vlad And Candies](https://codeforces.com/problemset/problem/1660/B)|[vlad_and_candies.cpp](./codeforces/vlad_and_candies.cpp)|
 |[Meeting](http://codeforces.com/contest/144/problem/B)|[meeting.cpp](./IEEE-Computer-Society/CS-2021-2022/CS21-Science-Week-4/meeting.cpp)|
 |[Hopscotch](http://codeforces.com/contest/141/problem/B)|[hopscotch.py](./IEEE-Computer-Society/CS-2021-2022/CS21-Science-Week-4/hopscotch.py)|
@@ -173,11 +183,16 @@
 |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/)|[merge_two_sorted_lists.py](./IEEE-Xtreme-Training/Task-1-Linked-Lists/merge_two_sorted_lists.py)|
 |[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/submissions/)|[add_two_numbers.cpp](./IEEE-Xtreme-Training/Task-1-Linked-Lists/add_two_numbers.cpp)|
 |[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/submissions/)|[climbing_stairs.cs](./IEEE-Xtreme-Training/Task-13/climbing_stairs.cs)|
+|[Coin Change](https://leetcode.com/problems/coin-change/)|[coin_change.py](./leetcode/coin_change.py)|
+|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[reverse_bits.cpp](./leetcode/reverse_bits.cpp)|
+|[Missing Number](https://leetcode.com/problems/missing-number/)|[missing_number.cpp](./leetcode/missing_number.cpp)|
 |[House Robber Ii](https://leetcode.com/problems/house-robber-ii/)|[house_robber_ii.cpp](./leetcode/house_robber_ii.cpp)|
 |[Decode Ways](https://leetcode.com/problems/decode-ways/)|[decode_ways.cpp](./leetcode/decode_ways.cpp)|
+|[Sum Of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[sum_of_two_integers.cpp](./leetcode/sum_of_two_integers.cpp)|
 |[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[longest_increasing_subsequence.cpp](./leetcode/longest_increasing_subsequence.cpp)|
 |[Longest Palindrome](https://leetcode.com/problems/longest-palindromic-substring/submissions/)|[longest_palindrome.cpp](./leetcode/longest_palindrome.cpp)|
+|[Single Number](https://leetcode.com/problems/single-number/)|[single_number.py](./leetcode/single_number.py)|
+|[Subsets](https://leetcode.com/problems/subsets/)|[subsets.cpp](./leetcode/subsets.cpp)|
 |[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[palindromic_substrings.cpp](./leetcode/palindromic_substrings.cpp)|
-|[Coin Change](https://leetcode.com/problems/coin-change/)|[coin_change.cpp](./leetcode/coin_change.cpp)|
 |[Max Height By Stacking](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/)|[max_height_by_stacking.cpp](./leetcode/max_height_by_stacking.cpp)|
 |[House Robber](https://leetcode.com/problems/house-robber/)|[house_robber.cpp](./leetcode/house_robber.cpp)|

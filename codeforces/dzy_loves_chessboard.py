@@ -1,3 +1,11 @@
+'''
+    Author: Ahmed Anwar
+    Problem Link: https://codeforces.com/problemset/problem/445/A 
+'''
+
+#from collections import *
+#import array
+
 n, m = map(int, input().split())
 matrix = [input() for _ in range(n)]
 prev = 'B'
